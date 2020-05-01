@@ -1,7 +1,7 @@
 Please Complete with your details and then sumbit via GitHub Classroom.
-* Full Name:
-* Tutor Group:
-* CID:
+* Full Name: Sibylle Rerolle
+* Tutor Group:4
+* CID:01707746
 
 *Did everything install well from the handbook? Any issues?*
 * NodeJS - [ ]
